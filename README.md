@@ -1,6 +1,6 @@
 # calendar-card
  Calendar using html and css
 
- Link - 
 
- ![Image]()
+
+ ![Image](https://raw.githubusercontent.com/RuchiraSachinthana/calendar-card/main/img/Capture.JPG)
